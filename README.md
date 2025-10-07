@@ -1,4 +1,4 @@
-# Alice Music Bot
+# Tiwari Music Bot
 
 ![Alice Music Logo](https://graph.org/file/f586172fe40a0b5d0b0df.jpg)
 
@@ -8,27 +8,27 @@
 
 ### Features
 
-- Multiple Cookies Support: Use multiple cookies for playing music to avoid IP issues.  
-- Multiple Sources: Play music from various platforms.  
-- Queue System: Organize your favorite songs in a playlist.  
-- Advanced Controls: Options like shuffle, repeat, and more.  
-- Customizable Settings: Adjust equalizer, normalization, and other audio preferences.  
-- Crystal Clear Audio: Enjoy high-quality playback.  
-- Volume Control: Set the volume to your preferred level.  
+- Multiple Cookies Support — Use multiple cookies for playing music to avoid IP issues.  
+- Multiple Sources — Play music from various platforms.  
+- Queue System — Organize your favorite songs in a playlist.  
+- Advanced Controls — Shuffle, repeat, and other playback options.  
+- Customizable Settings — Adjust equalizer, normalization, and more.  
+- Crystal Clear Audio — Enjoy high-quality playback.  
+- Volume Control — Set your preferred volume level.  
 
 ---
 
 ### VPS Deployment
 
-Check out the documentation for detailed instructions on deploying Alice Music Bot on a VPS:  
-👉 [Alice Music Documentation](https://thanos-organization.gitbook.io/alice-music)
+Deploy Alice Music Bot easily on your VPS:  
+👉 **[Read Documentation](https://thanos-organization.gitbook.io/alice-music/getting-started/quickstart)**
 
 ---
 
 ### How to Make Cookies on Phone
 
-Click the thumbnail below to watch the tutorial:  
-[![Watch the video](1000019442_enhanced.jpg.png)](https://www.youtube.com/watch?v=oQd2P3yciPg)
+Watch the tutorial here:  
+🎥 **[YouTube Guide](https://www.youtube.com/watch?v=oQd2P3yciPg)**
 
 ---
 
@@ -43,25 +43,28 @@ Click the thumbnail below to watch the tutorial:
 | `/stop`              | Stop the bot and clear the queue.    |
 | `/queue`             | Show the list of songs in the queue. |
 
-For a full list of commands, use `/help` in [Telegram](https://t.me/thanos_pro).
+For a full list of commands, use `/help` directly in **[Telegram](https://t.me/thanos_pro)**.
 
 ---
 
 ### Updates & Support
 
-- Support Group: [Join Here](https://telegram.me/thanosprosss)  
-- Update Channel: [Visit Here](https://telegram.me/thanos_pro)
+Need help or want to stay updated?  
+- 💬 **[Join Support Group](https://telegram.me/thanosprosss)**  
+- 📢 **[Visit Update Channel](https://telegram.me/thanos_pro)**  
 
 ---
 
 ### Repository
 
-Official Repository: [https://github.com/kirtigupta66635-del/Tiwari-team-bot.git](https://github.com/kirtigupta66635-del/Tiwari-team-bot.git)
+Official Source Code:  
+🔗 **[https://github.com/kirtigupta66635-del/Tiwari-team-bot.git](https://github.com/kirtigupta66635-del/Tiwari-team-bot.git)**
 
 ---
 
 ### License
 
-This project is licensed under the MIT License. For more details, see the LICENSE file.
+This project is licensed under the **MIT License**.  
+Read more here → **[MIT License Details](LICENSE)**
 
 ---
