@@ -1,70 +1,42 @@
-# Tiwari Music Bot
+<h2 align="center">     ─「 𝐀𝐧𝐧𝐚𝐩𝐮𝐫𝐧𝐚 𝐌𝐮𝐬𝐢𝐜 」─  </h2>  
 
-![Alice Music Logo](https://graph.org/file/f586172fe40a0b5d0b0df.jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝙰𝙽𝙽𝙰𝙿𝚄𝚁𝙽𝙰+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝐀𝐧𝐧𝐚𝐩𝐮𝐫𝐧𝐚)](https://github.com/kirtigupta66635-del/Tiwari-team-bot.git)    
 
-## Delivering a Superior Music Experience to Telegram
+<p align="center">   
+ <img src=""> 
+</p>    
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗕𝗘𝗙𝗢𝗥𝗘+𝗗𝗘𝗣𝗟𝗢𝗬)  
 
-### Features
+## ⚠️ 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+👉🏻 ʜᴇʏ ɢᴜʏ's, ᴅᴏɴ'ᴛ ᴜsᴇ ʏᴏᴜʀ ʀᴇᴀʟ ɪ'ᴅ sᴇssɪᴏɴ ᴀs ᴀ ᴀssɪsᴛᴀɴᴛ ʙᴄᴏᴢ ᴛʜᴇ ᴀssɪsᴛᴀɴᴛ ᴡɪʟʟ ʟᴇᴀᴠᴇ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘs & ᴄʜᴀɴɴᴇʟs.  
+ᴜ  ᴍɪɢʜᴛ ʟᴏᴏsᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴏᴡɴᴇʀsʜɪᴘ ᴀɴᴅ ᴀᴅᴍɪɴsʜɪᴘ 🥺  
+sᴏ ᴜsᴇ ʏᴏᴜʀ ᴀɴʏ ᴏᴛʜᴇʀ ɪ'ᴅ sᴇssɪᴏɴ 👈🏻  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-- Multiple Cookies Support — Use multiple cookies for playing music to avoid IP issues.  
-- Multiple Sources — Play music from various platforms.  
-- Queue System — Organize your favorite songs in a playlist.  
-- Advanced Controls — Shuffle, repeat, and other playback options.  
-- Customizable Settings — Adjust equalizer, normalization, and more.  
-- Crystal Clear Audio — Enjoy high-quality playback.  
-- Volume Control — Set your preferred volume level.  
+## 🖇 Generating Pyrogram String Session  
+<p> 
+<a href="https://t.me/ANNAPURNA_STRING_BOT"><img src="https://img.shields.io/badge/Generate%20String%20Session-blueviolet?style=for-the-badge&logo=appveyor" width="250""/></a> 
+</p>  
 
----
+<h3 align="center">     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─  </h3>  
 
-### VPS Deployment
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>  
 
-Deploy Alice Music Bot easily on your VPS:  
-👉 **[Read Documentation](https://thanos-organization.gitbook.io/alice-music/getting-started/quickstart)**
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/kirtigupta66635-del/Tiwari-team-bot.git"> 
+<img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/>
+</a>
+</p>  
 
----
+<p align="center"> 
+ <a href="https://telegram.me/GOODCHEAT01"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐀𝐍𝐍𝐀𝐏𝐔𝐑𝐍𝐀☆-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+</p>  
 
-### How to Make Cookies on Phone
+<h3 align="center">     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ / ᴠᴘs 」─ </h3>  
 
-Watch the tutorial here:  
-🎥 **[YouTube Guide](https://www.youtube.com/watch?v=oQd2P3yciPg)**
-
----
-
-### Commands & Usage
-
-| Command              | Description                          |
-|----------------------|--------------------------------------|
-| `/play <song name>`  | Play the requested song.             |
-| `/pause`             | Pause the current song.              |
-| `/resume`            | Resume the paused song.              |
-| `/skip`              | Skip to the next song.               |
-| `/stop`              | Stop the bot and clear the queue.    |
-| `/queue`             | Show the list of songs in the queue. |
-
-For a full list of commands, use `/help` directly in **[Telegram](https://t.me/thanos_pro)**.
-
----
-
-### Updates & Support
-
-Need help or want to stay updated?  
-- 💬 **[Join Support Group](https://telegram.me/thanosprosss)**  
-- 📢 **[Visit Update Channel](https://telegram.me/thanos_pro)**  
-
----
-
-### Repository
-
-Official Source Code:  
-🔗 **[https://github.com/kirtigupta66635-del/Tiwari-team-bot.git](https://github.com/kirtigupta66635-del/Tiwari-team-bot.git)**
-
----
-
-### License
-
-This project is licensed under the **MIT License**.  
-Read more here → **[MIT License Details](LICENSE)**
-
----
+- Get your [Necessary Variables](https://github.com/kirtigupta66635-del/Tiwari-team-bot/blob/main/sample.env)  
+- Upgrade and Update your system by running:  
+  ```bash
+  sudo apt-get update && sudo apt-get upgrade -y
